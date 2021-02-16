@@ -66,7 +66,7 @@ echo
 ## Default: Commit skipped|forgotten
 ## 🎯  #6 : 
 
-git commit -m "obstacle 3: MAGICSPIN"
+git commit -m "obstacle 3: FINDCARD1"
 
 ############
 # Step: 05 #
