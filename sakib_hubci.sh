@@ -66,7 +66,7 @@ echo
 ## Default: Commit skipped|forgotten
 ## 🎯  #6 : 
 
-git commit -m "obstacle 3: FINDCARD1"
+git commit -m "obstacle 4: FINDTHECARD2"
 
 ############
 # Step: 05 #
@@ -86,7 +86,7 @@ git remote -v
 echo
 echo [ Done ]  Updating remote URL.
 
-git remote set-url origin https://github.com/sakib-rahman-bangladesh/java-games.git
+git remote set-url origin https://github.com/sakib-rahman-bangladesh/java2d-games.git
 
 ############
 # Step: 07 #
@@ -106,4 +106,4 @@ echo 08. Pushing local codebase to remote repo...Repo-to-repo collaboration: git
 echo
 git push origin master
 
-git push --all -f https://github.com/sakib-rahman-bangladesh/java-games.git
+git push --all -f https://github.com/sakib-rahman-bangladesh/java2d-games.git
