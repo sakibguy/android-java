@@ -66,7 +66,7 @@ echo
 ## Default: Commit skipped|forgotten
 ## 🎯  #6 : 
 
-git commit -m "obstacle 7: FINGER"
+git commit -m "org: README.md"
 
 ############
 # Step: 05 #
