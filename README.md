@@ -1,3 +1,6 @@
+# JAVAANDROID 2D_GAME wOrK 8
+
+# 1-MAKEAPP
 ## GAME 1: STRANGEMONKEYRUN 
 > gamename.gif
 ## GAME 2: FRUITWHEEL
@@ -12,3 +15,9 @@
 > gamename.gif
 ## GAME 7: FINGER
 > gamename.gif
+## GAME 8: ONLYLOVER
+> gamename.gif
+
+# CUSTOMERS
+## 1- MAKEAPP (RUSSIAN GAME INDUSTRY): [jointoperation-techteam](https://gitlab.com/users/sakib-rahman-bangladesh/following)
+![Image from iOS](https://user-images.githubusercontent.com/24685590/116859641-1ff5cc80-ac22-11eb-868d-c7ba5ef18bbc.jpg)

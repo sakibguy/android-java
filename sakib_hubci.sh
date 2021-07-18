@@ -66,7 +66,7 @@ echo
 ## Default: Commit skipped|forgotten
 ## 🎯  #6 : 
 
-git commit -m "org: README.md"
+git commit -m "obstacle 8: ONLYLOVER"
 
 ############
 # Step: 05 #
