@@ -66,7 +66,7 @@ echo
 ## Default: Commit skipped|forgotten
 ## 🎯  #6 : 
 
-git commit -m "obstacle 8: ONLYLOVER"
+git commit -m "obstacle 9: BIGLOVE"
 
 ############
 # Step: 05 #
