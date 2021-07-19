@@ -65,8 +65,9 @@ echo
 ## Solved issues
 ## Default: Commit skipped|forgotten
 ## 🎯  #6 : 
+## obstacle 9: 
 
-git commit -m "obstacle 9: BIGLOVE"
+git commit -m "BIGLOVE, ONLYLOVE ( bugs fixed )"
 
 ############
 # Step: 05 #
