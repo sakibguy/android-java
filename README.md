@@ -1,4 +1,4 @@
-# JAVAANDROID wOrK 9
+# JAVAANDROID wOrK 10
 
 # 1-MAKEAPP
 ## GAME 1: STRANGEMONKEYRUN 
@@ -18,6 +18,8 @@
 ## GAME 8: ONLYLOVER
 > gamename.gif
 ## GAME 9: BIGLOVE
+> gamename.gif
+## GAME 10: SAMESHAPE
 > gamename.gif
 
 # CUSTOMERS
