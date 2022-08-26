@@ -1,4 +1,4 @@
-# JAVAANDROIDGAME wOrK 13
+# JAVAANDROIDGAME wOrK 14
 
 # 1-MAKEAPP
 ## GAME 1: STRANGEMONKEYRUN 
@@ -27,6 +27,8 @@
 > gamename.gif
 ## GAME 13: ALMOSTDROP
 > gamename.gif
+## GAME 14: PHONESAYS
+> [design](https://www.figma.com/file/CJ6Q3jUu4wyPjFwlRSo4jf/Phone-Says?node-id=0%3A1)
 
 
 # CUSTOMERS
