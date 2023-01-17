@@ -1,6 +1,6 @@
-# JAVAANDROIDGAME wOrK 20
+# JAVAANDROIDGAME wOrK 21 (DEV: 20, REBUILT: 1)
 
-# 1-MAKEAPP
+# 1-MAKEAPP (DEV)
 ## GAME 1: STRANGEMONKEYRUN 
 > gamename.gif
 ## GAME 2: FRUITWHEEL
@@ -42,6 +42,9 @@
 ## GAME 20: WEEKENDSPORT
 > [design](https://www.figma.com/file/gL5OpXf9TDtdheoUeoEBFL/Weekend-sports?node-id=0%3A1&t=O6GPGz3p12uBXBJR-0)
 
-# CUSTOMERS
-## 1- MAKEAPP (RUSSIAN GAME INDUSTRY): [techteam](https://gitlab.com/users/sakib-rahman-bangladesh/following)
+# 1-MAKEAPP (REBUILT)
+### game 1: weekendsport
+
+# ORGs
+## 1- RU_MAKEAPP (GAME INDUSTRY) [techteam](https://gitlab.com/users/sakib-rahman-bangladesh/following)
 ![Image from iOS](https://user-images.githubusercontent.com/24685590/116859641-1ff5cc80-ac22-11eb-868d-c7ba5ef18bbc.jpg)
