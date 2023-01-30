@@ -1,4 +1,4 @@
-# JAVAANDROIDGAME wOrK 21 (DEV: 20, REBUILT: 1)
+# JAVAANDROIDGAME wOrK 22 (DEV: 21, REBUILT: 1)
 
 # 1-MAKEAPP (DEV)
 ## GAME 1: STRANGEMONKEYRUN 
@@ -41,6 +41,8 @@
 > [design](https://www.figma.com/file/lhxUF7aiKHX8P4sdvgaStf/Sporting-Touch?node-id=0%3A1&t=HaVfQ1QmSoiSjYSp-0)
 ## GAME 20: WEEKENDSPORT
 > [design](https://www.figma.com/file/gL5OpXf9TDtdheoUeoEBFL/Weekend-sports?node-id=0%3A1&t=O6GPGz3p12uBXBJR-0)
+## GAME 21: FOOTBALLMINDS
+> [design](https://www.figma.com/file/e1UW2cXImehtKxZGtbGdvV/Football-Minds?t=b8xlB7FJ7reulGYC-0)
 
 # 1-MAKEAPP (REBUILT)
 ### game 1: weekendsport
