@@ -1,4 +1,4 @@
-# JAVAANDROIDGAME wOrK 25 (DEV: 24, REBUILT: 1)
+# JAVAANDROIDGAME wOrK 26 (DEV: 25, REBUILT: 1)
 
 # 1-MAKEAPP (DEV)
 ## GAME 1: STRANGEMONKEYRUN 
@@ -49,6 +49,8 @@
 > [design](https://www.figma.com/file/I1igVO7TDKdx64hUebc3mP/Guess-What?node-id=0-1&t=CYJAVWEaZugJwRVy-0)
 ## GAME 24: STADIUMEU
 > [design](https://www.figma.com/file/q95SAW1GPhqQBwfnVeXVFF/Stadium-EU?t=za9tMqyyCZkoLayC-0)
+## GAME 25: BUNDESLIGASCORES
+> [design](https://www.figma.com/file/LlH9Tt3tIsE8bvY2BPhQ5c/Bundesliga-Scores?node-id=0-1&t=STp5HAG6VfkWom6J-0 )
 
 # 1-MAKEAPP (REBUILT)
 ### game 1: weekendsport
