@@ -1,4 +1,4 @@
-# JAVAANDROIDGAME wOrK 29 (DEV: 29, REBUILT: 1)
+# JAVAANDROIDGAME wOrK 30 (DEV: 29, REBUILT: 1)
 
 # 1-MAKEAPP (DEV)
 ## GAME 1: STRANGEMONKEYRUN 
@@ -57,6 +57,8 @@
 > [design](https://www.figma.com/file/Ldk31WIkbitICybKbg4QK9/Most-Sports?node-id=0-1&t=VDinwDrTpKBuVt78-0)
 ## GAME 28: ICELEGENDS
 > [design](https://www.figma.com/file/f7R8Yu6xMVyBiwnFjDUdYZ/Ice-Legends?node-id=0-1&t=ZnK7ESwjE8RgYFoL-0)
+## GAME 29: SUPERATHLETIC
+> [design](https://www.figma.com/file/fx6tSVkobYk8YV8DCKKYwB/Super-Athletic?node-id=0-1&t=F19ct9azOv6ikSoO-0)
 
 # 1-MAKEAPP (REBUILT)
 ### game 1: weekendsport
