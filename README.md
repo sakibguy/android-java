@@ -1,4 +1,4 @@
-# JAVAANDROIDGAME wOrK 33 (DEV: 32, REBUILT: 1)
+# JAVAANDROIDGAME wOrK 34 (DEV: 33, REBUILT: 1)
 
 # 1-MAKEAPP (DEV)
 ## GAME 1: STRANGEMONKEYRUN 
@@ -65,6 +65,8 @@
 > [design](https://www.figma.com/file/su5WRa424SBE5QqWspgQhn/Top-Football-Matches?node-id=0-1&t=K80TBsdfJJGshwVF-0)
 ## GAME 32: SUPERDERBY
 > [design](https://www.figma.com/file/QlspfDUUwIZIBAAtiDtilc/Super-Derby?type=design&node-id=8-2&t=0pwAivNbXJ0CgZrA-0)
+## GAME 33: DEVILSARERED
+> [design](https://www.figma.com/file/7YEqP62qXHedSPHwM3lmIE/Devils-are-Red?type=design&node-id=19-2&t=eidMCSq7Rnd7Wxuf-0)
 
 
 # 1-MAKEAPP (REBUILT)
