@@ -1,4 +1,4 @@
-# JAVAANDROIDGAME wOrK 37 (DEV: 37, REBUILT: 1)
+# JAVAANDROIDGAME wOrK 38 (DEV: 38, REBUILT: 1)
 
 # 1-MAKEAPP (DEV)
 ## GAME 1: STRANGEMONKEYRUN 
@@ -73,6 +73,8 @@
 > [design](https://www.figma.com/file/9Tu6mjsBtpoEI8xvgfjKBs/Southam-Football?type=design&node-id=5-141&t=7balFgEUxJRw9LiF-0)
 ## GAME 36: COMBATLEGENDS
 > [design](https://www.figma.com/file/c8dXiQHeGLPKH8GvbiDRwo/CombatLegends?type=design&node-id=0-1&t=wEpmh6XIXNPGqjDi-0)
+## GAME 37: RUGBYKNIGHTS
+> [design](https://www.figma.com/file/Vk0cCUjGX6nk1qfPDSBmfa/Rugby-Knights?type=design&node-id=2-3&t=QAknmYARUO86HfQ3-0)
 
 # 1-MAKEAPP (REBUILT)
 ### game 1: weekendsport
