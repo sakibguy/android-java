@@ -14,6 +14,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
 import android.text.format.DateFormat;
+import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -33,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView textView;
     private Button button;
 
+    private float xCoOrdinate, yCoOrdinate;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -52,6 +54,26 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        imageView.setOnTouchListener(new View.OnTouchListener() {
+            @Override
+            public boolean onTouch(View view, MotionEvent motionEvent) {
+                switch (motionEvent.getActionMasked()) {
+                    case MotionEvent.ACTION_DOWN:
+                        xCoOrdinate = view.getX() - motionEvent.getRawX();
+                        yCoOrdinate = view.getY() - motionEvent.getRawY();
+                        break;
+                    case MotionEvent.ACTION_MOVE:
+                        view.animate().x(xCoOrdinate + motionEvent.getRawX())
+                                .y(yCoOrdinate + motionEvent.getRawY())
+                                .setDuration(0)
+                                .start();
+                        break;
+                    default:
+                        return false;
+                }
+                return true;
+            }
+        });
     }
 
     private void takeScreenShot(View view) {
