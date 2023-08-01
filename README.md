@@ -1,4 +1,4 @@
-# JAVAANDROIDGAME wOrK 39 (DEV: 39, REBUILT: 1)
+# JAVAANDROIDGAME wOrK 40 (DEV: 39, REBUILT: 1)
 
 # 1-MAKEAPP (DEV)
 ## GAME 1: STRANGEMONKEYRUN 
@@ -77,6 +77,8 @@
 > [design](https://www.figma.com/file/Vk0cCUjGX6nk1qfPDSBmfa/Rugby-Knights?type=design&node-id=2-3&t=QAknmYARUO86HfQ3-0)
 ## GAME 38: FOOTBALLSQUADPUZZLE
 > [design](https://www.figma.com/file/07lW77aNRxHnRBKqNsm3cr/Football-Squad-Puzzle?type=design&node-id=0-1&mode=design&t=EVSjbRoDkBVeQckZ-0)
+## GAME 39: SOLARGUIDE
+> [design](https://www.figma.com/file/o59yYyIqU8gISdSHY2DN5I/SolarGuide?type=design&node-id=0%3A1&mode=design&t=BZ54jnsNUrpThHWr-1)
 
 # 1-MAKEAPP (REBUILT)
 ### game 1: weekendsport
