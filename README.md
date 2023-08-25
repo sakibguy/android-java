@@ -1,4 +1,4 @@
-# JAVAANDROIDGAME wOrK 40 (DEV: 39, REBUILT: 1)
+# JAVAANDROIDGAME wOrK 41 (DEV: 40, REBUILT: 1)
 
 # 1-MAKEAPP (DEV)
 ## GAME 1: STRANGEMONKEYRUN 
@@ -79,6 +79,8 @@
 > [design](https://www.figma.com/file/07lW77aNRxHnRBKqNsm3cr/Football-Squad-Puzzle?type=design&node-id=0-1&mode=design&t=EVSjbRoDkBVeQckZ-0)
 ## GAME 39: SOLARGUIDE
 > [design](https://www.figma.com/file/o59yYyIqU8gISdSHY2DN5I/SolarGuide?type=design&node-id=0%3A1&mode=design&t=BZ54jnsNUrpThHWr-1)
+## GAME 40: PSYCHOTESTER
+> [design](https://www.figma.com/file/4Ldvti9cffe0bkMNEjGDAt/PsychoTester?type=design&node-id=0-1&mode=design&t=hTsqRcxEfGJRmZMe-0)
 
 # 1-MAKEAPP (REBUILT)
 ### game 1: weekendsport
